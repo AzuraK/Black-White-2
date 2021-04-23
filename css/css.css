@@ -1,0 +1,130 @@
+body{
+  background-image: url("https://image.freepik.com/free-vector/black-white-textured-seamless-pattern-background-repeating-round-circle_157822-290.jpg")
+}
+.top-box {
+  background-color: #e1f4f3;
+  height: 20px;
+  width: auto;
+  font-family: arial, monospace;
+  text-align: left;
+  margin: 0px 100px 0px;
+
+}
+.header{
+  margin: 0px 100px 0px;
+  font-family: "century-gothic", "times new roman", monospace;
+  height: 400px;
+  width: 84%;
+  background-color: #333333;
+  position: relative;
+}
+.logo{
+
+}
+.introduction{
+  position: absolute;
+  font-family: "cenutry-gothic", "times-new-roman", sans-serif;
+  postion: absolute;
+  left: 25%;
+  right: 25%;
+  top: 25%
+}
+.content-box{
+  margin: 0 100px 0;
+  background-color: #706c61;
+  position: relative;
+  height: 1035px;
+  width: auto;
+}
+.selection-tab{
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  background-color: #e1f4f3;
+  width: 100%;
+  height: 25px
+}
+
+.nav{
+  padding: 0px 6.2em 0px;
+  border-style: outset;
+}
+
+.myButton {
+  top: 0em;
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:5px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding: 0.5em 8.75em 0.5em;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+  position: relative;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.advertisement-1{
+  margin: 5px 0px 5px;
+  height: 200px;
+  width: 30%;
+  background-color: #333333;
+  display: inline-block;
+}
+
+.body-1{
+  margin: 5px 0px 5px;
+  height: 500px;
+  width: 60%;
+  display: inherit;
+  background-color: #333333;
+  float: right;
+}
+.body-2{
+  margin: 5px 0px 5px;
+  height: 495px;
+  width: 60%;
+  display: block-inline;
+  background-color: #333333;
+  float: right;
+}
+.audio-list{
+  display: inherit;
+  float: left;
+  background-color: #333333;
+  margin: 5px 0px 5px;
+  height: 500px;
+  width: 30%;
+
+}
+.advertisement-2{
+  margin: 5px 0px 5px;
+  height: 200px;
+  width: 30%;
+  background-color: #333333;
+  display: inherit;
+  float: left;
+}
+
+.bottom-box{
+  background-color: #e1f4f3;
+  height: 20px;
+  width: auto;
+  font-family: arial, monospace;
+  text-align: left;
+  margin: 0px 100px 0px;
+  border: 1px;
+  border-style: solid;
+}
